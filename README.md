@@ -1,5 +1,5 @@
-# Data-Mining-Prediction-
-A simple diabetes prediction program written in Java using weka's machine learning algorithms for data mining and weka's diabetes data set.
+# Diabetes Prediction
+A simple diabetes prediction program written in Java using machine learning algorithms( J48, Naive Bayes and Logistic regression) for data mining and weka's diabetes data set.
 
 ## Weka [ Weka ](https://www.cs.waikato.ac.nz/ml/weka/)
 
